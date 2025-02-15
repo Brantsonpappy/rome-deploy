@@ -1,4 +1,4 @@
 shareithub
 web3
 requests
-py-solc-x
+
